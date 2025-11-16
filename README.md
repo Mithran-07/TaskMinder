@@ -1,4 +1,4 @@
-# 🚀 MeetingNode – AI Meeting Workflow Agent
+# 🚀 TaskMinder – AI Meeting Workflow Agent
 
 Turn raw meeting recordings into tasks, decisions, and project updates automatically.
 
